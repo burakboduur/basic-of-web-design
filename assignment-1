@@ -1,1 +1,66 @@
 
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=,, initial-scale=1.0">
+    <meta "keywords" ()>
+    <title>CVsite</title>
+</head>
+<style>
+    .hakkimda{
+        background-color: #DEF7FF;
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+    body{
+        background-color: #91E4FF;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h1{
+        
+    }
+    .fotograf{
+        background-color: #DEF7FF;
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+    .jpeg{
+        width: 50%;
+    }
+    .basarilar{
+        background-color: #DEF7FF;
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+    .ul{
+        text-align:left;
+    }
+</style>
+<body>
+    
+    <div class="fotograf">
+        <img class="jpeg" src="odev.jpeg" alt="..">
+    </div>
+    <div class="hakkimda">
+        <h1>HAKKIMDA</h1>
+        <hr>
+        <p>İsmim Berkant Burak Bodur,3 Temmuz 2003 tarihinde Bursa’nın Osmangazi ilçesinde doğdum.Bursa Orhangazi ilçesinde Atatürk ilkokulu ve orta okulunda 8 sene öğretim gördüm.Bu esnada bir yandan futbol hayatıma başladım.7 yaşımda başladığım futbol hayatıma okulumunda katkılarıyla Türkiye Şampiyonalarına gittim.Farklı illerde şampiyonluklar ve anılar biriktirdim.Sonrasında yine aynı ilçede şimdiki adıyla 15 Temmuz Şehitler Anadolu Lisesinde okudum.Lise hayatım korona virüsünde etkisiyle pek güzel geçmedi.Böylece inişli çıkışlı bir lise hayatım oldu ve bitti.Toplamda 19 senelik Orhangazide ki yaşantımda çok farklı tecrübeler kazandım.Sonrasında üniversite sınavının ilk senesinde çok güzel bir sonuç alamadığımdan dolayı mezuna kaldım.Sonraki sene daha iyi bir sonuç almama rağmen ilk tercihlerde yerleşemedim.Ek tercihlerle şuan bulunduğum Kütahya Dumlupınar Üniversitesinde Bilgisayar Programcılığı kazandım.Sakin ve uygun bir yaşantısı olan kütahyaya ilkte pek alışamasamda yavaştan ısınmaya başladım.</p>
+        
+    </div>
+    <div class="basarilar">
+        <h1>FUTBOLDAKİ BAŞARILARIM</h1>
+        <ul class="ul">
+            <li>Türkiye Şampiyonası Eskişehir 1.liği</li>
+            <li>Türkiye Şampiyonası Edirne 3.lüğü</li>
+            <li>Türkiye Şampiyonası Düzce 1.liği</li>
+            <li>Türkiye Şampiyonası Sinop 3.lüğü</li>
+            
+        </ul>
+    </div>
+</body>
+</html>
